@@ -1,5 +1,6 @@
 # Hack-a-thing 1
 ## Will Sanford and Alex Quill
+### 09/22/2020
 
 ### What we attempted to build
 We both wanted to get more familiar with designing, building and training nearual networks, specifically with TensorFlow.
